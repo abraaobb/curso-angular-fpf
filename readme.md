@@ -16,3 +16,7 @@ compilar o arquivo
 tsc nome_arquivo.ts
 executar arquivo js
 node nome_arquivo.js
+
+usando angular
+criar projeto
+ng new nomeprojeto
