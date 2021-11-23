@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'projeto1';
+  color = 'red';
+
+  public trocaCor(){
+    this.color = 'white';
+  }
 }
